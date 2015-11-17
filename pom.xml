@@ -73,7 +73,7 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.7.2</muleVersion>
-					<username>matthew.capps@twcable.com</username>
+					<username>mattcapps</username>
 					<password>Blahblah7!</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
